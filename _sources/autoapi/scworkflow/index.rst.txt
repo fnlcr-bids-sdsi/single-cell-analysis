@@ -1,0 +1,23 @@
+:py:mod:`scworkflow`
+====================
+
+.. py:module:: scworkflow
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   scworkflow/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   
+
+   
+
